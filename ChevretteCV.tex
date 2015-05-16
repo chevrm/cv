@@ -1,0 +1,233 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,roman]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{banking}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{black}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+%\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\name{Marc G.}{Chevrette}
+%\title{ }                               % optional, remove / comment the line if not wanted
+\address{1156 Commonwealth Ave.}{Apt. B}{Allston, MA 02134}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
+\phone[fixed]{(401)~269~9173}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
+%\phone[fixed]{+2~(345)~678~901}
+%\phone[fax]{+3~(456)~789~012}
+\email{chevrm@gmail.com}                               % optional, remove / comment the line if not wanted
+%\homepage{www.johndoe.com}                         % optional, remove / comment the line if not wanted
+%\social[linkedin]{john.doe}                        % optional, remove / comment the line if not wanted
+%\social[twitter]{jdoe}                             % optional, remove / comment the line if not wanted
+%\social[github]{jdoe}                              % optional, remove / comment the line if not wanted
+%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+\photo[56pt][0.4pt]{qrcode.png}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+\vspace{-12mm}
+\section{Research Overview}
+\cvitem{}{Scientist with microbial genomics, secondary metabolite biosynthesis, DNA sequencing, and molecular biology background. Experienced in development of novel applications using computational biology, molecular biology, bioengineering, and genomic sequencing approaches.  Specific expertise and interest in microbial natural products biosynthesis, drug discovery, chemical ecology, and molecular engineering.}
+\section{Education}
+\cventry{}{Ph.D.}{University of Wisconsin, Madison, WI}{(in progress)}{Genetics}{\textbf{Advisor:} Cameron Currie, Ph.D.}{} \vspace{1.5mm}
+\cventry{}{ALM (Master of Liberal Arts)}{Harvard University Extension, Cambridge, MA}{03/2015}{Biotechnology -- Bioengineering \& Nanotechnology}{\textbf{Advisor:} Tom\'{a}s Maira-Litr\'{a}n, Pharm.D., Ph.D. \newline \textbf{Thesis:} Transposon-Directed Insertion Site Sequencing for Determination of Fitness Factors in Pulmonary Infection by Acinetobacter baumannii.}{} \vspace{1.5mm}
+\cventry{}{Bachelor of Science}{Rensselaer Polytechnic Institute, Troy, NY}{12/2010}{}{Molecular Biology \& Bioinformatics}
+
+\section{Research Experience}
+%\subsection{Experience}
+\cventry{}{Head of Experimental Genomics}{Warp Drive Bio, Cambridge, MA}{04/2013--08/2015}{(04/2014--08/2015)}{}\vspace{-6mm}
+\cventry{}{Research Associate, Experimental Genomics \& Computational Biology}{}{}{(04/2013--03/2014)}{ %\newline{}
+\begin{itemize}
+\item Executed genomic-directed natural products drug discovery, high throughput Next Generation Sequencing (htNGS), computational biology, and molecular biology of actinomycetes and fungi.
+\item Designed and implemented genomic natural products searches over various scaffolds of business development and internal interest.
+\item Developed and curated computational pipelines and databases for assembly, annotation, and custom analysis of public and internal htNGS data ($1.6\times10^{5}$ bacterial genomes, >150 closed and complete genomes) for analysis of novel polyketide, non-ribosomal peptide, and other natural product classes.
+\item Handled processing and management of sequence data, predictions, and analyses supporting multiple projects across discovery, molecular biology, engineering, and synthetic biology.
+\item Executed elucidation and prediction of novel chemical products of bacterial biosynthetic gene clusters and metabolic pathways (e.g. beta-lactams, aminoglycosides, rapamycin analogues, etc.).
+\item Developed internal pipelines for applied phylogenomic annotations and prioritizations of multiple data types to inform discovery and engineering efforts.
+\item Oversaw all lab and experimental support of actinomycete and fungal sequencing efforts for Illumina, Pacific Biosciences, and Oxford-Nanopore platforms.
+\item Bioinformatics software development to support molecular and synthetic biology efforts.
+\item Direct written and verbal communication of findings to
+senior leadership and business partners.
+\item Database management and delivery of sequence information to molecular biology, microbiology, and chemistry groups to aid drug discovery, strain engineering, and generation of expression constructs.
+\end{itemize}}
+\vspace{1.5mm}
+%\clearpage % push next header to next page...
+\cventry{}{Research Assistant, Microbiology}{Brigham \& Women's Hospital, Div. of Infectious Diseases, Boston, MA}{03/2013--08/2015}{}{
+\begin{itemize}
+\item Investigated \textit{in vivo} fitness, horizontal gene transmission, and pathogenesis of \textit{Acinetobacter baumannii}, \textit{Staphylococcus aureus}, \textit{Salmonella typhii}, and other virulent pathogens through microbiology, computational, and genomic techniques.
+\item Developed and optimized genetic tools to enable novel examinations of pathogen fitness, invasion, and virulence using high-throughput transposon-directed insertion site sequencing of infections in murine models.
+\end{itemize}}
+\vspace{1.5mm}
+\cventry{}{Computational Biologist}{Harvard University (Society of Fellows), Cambridge, MA}{10/2013--07/2015}{}{
+\begin{itemize}
+\item Performed whole genome sequencing and metagenomic analysis of environmental samples from sulfur-rich, extreme environments with implications in microbial ecology and exobiology.
+\item Characterized biosynthetic potential of metagenomic data.
+\end{itemize}}
+\vspace{1.5mm}
+\cventry{}{Research Associate II, Molecular Biology Process Development}{Broad Institute of MIT \& Harvard, Cambridge, MA}{01/2011--03/2013}{}{
+\begin{itemize}
+\item Independently designed development initiatives including supporting htNGS, microfluidics, and automation goals.
+\item Oversaw production and up-scaling of microbial mate-pair library construction (LC), integrated internal development with vendor technologies, and managed sample-tracking via real-time messaging to internal LIMS.
+\item Increased throughput of microbial LC Platform 4-fold by automation and protocol development.
+\item Worked extensively with mate-pair NGS LC, sequence analysis tools, genomic databases, statistical software, and programming/operating lab robotics.
+\end{itemize}}
+\vspace{1.5mm}
+\cventry{}{Research Associate, Molecular Genetics}{Rensselaer Polytechnic Institute, Troy, NY}{05/2010--12/2010}{Rutledge Lab}{
+\begin{itemize}
+\item Designed and developed protocols and operating procedures for transgenic \textit{Caenorhabditis elegans} cultures to model stress-induced neural degeneration and Parkinson's Disease.
+\end{itemize}}
+\vspace{1.5mm}
+\cventry{}{Research Assistant, Microbiology}{BCR Biotech, Jamestown, RI (now BCR Diagnostics, Chandler, AZ)}{09/2009--12/2009}{}{
+\begin{itemize}
+\item Wrote and optimized protocols and methods for engineering synthetic biosensing functions in \textit{Bacillus} spores.
+\end{itemize}}
+%\subsection{Miscellaneous}
+%\cventry{year--year}{Job title}{Employer}{City}{}{Description}
+
+\section{Publications}
+\cvitem{}{Johnson, SS, \textbf{MG Chevrette}, BL Ehlmann, KC Benison.  2015.  "Insights from the Metagenome of an Acid Salt Lake: the Role of Biology in an Extreme Depositional Environment."  \textit{PLOS ONE}.  2015 Apr; \textbf{10}(4):e0122869.}
+\vspace{1.5mm}
+%A baum TnSeq
+%A baum TyII
+%A baum Transmission
+%WBD1
+%\cvitemwithcomment{Language 1}{Skill level}{Comment}
+%\cvitemwithcomment{Language 2}{Skill level}{Comment}
+%\cvitemwithcomment{Language 3}{Skill level}{Comment}
+
+\section{Abstracts}
+\cvitem{}{\textbf{\underline{Chevrette, MG}}, BL Ehlmann, KC Benison, SS Johnson.  Microbial Diversity and Biosynthetic Potential of an Extreme Sediment Metagenome.  Poster at: Gordon Applied and Environmental Microbiology; South Madley, MA; Jul 12-17, 2015.} \vspace{1.5mm}
+\cvitem{}{\textbf{\underline{Chevrette, MG}}, M Vinacur, T Maira-Litr\'{a}n.  Transposon-Directed Insertion Site Sequencing Reveals \textit{in vivo} Fitness Factors in \textit{A. baumannii} Lung Infections.  Poster at: Boston Bacterial Meeting; Cambridge, MA; Jun 18-19, 2015.} \vspace{1.5mm}
+\cvitem{}{\underline{Udwary, DW}, K Robison, \textbf{MG Chevrette}, GL Verdine.  Lessons from Long Read Assembly of 100+ Actinomycete Genomes.  Poster at: Gordon Marine Natural Products; Ventura, CA; Mar 2-7, 2014.} \vspace{1.5mm}
+\cvitem{}{\underline{Robison, K}, DW Udwary, \textbf{MG Chevrette}, GL Verdine.  Long Read Assembly of >100 Actinomycete Genomes.  Poster at: Advances in Genome Biology \& Technology; Marco Island, FL; Feb 12-15, 2014.} \vspace{1.5mm}
+\cvitem{}{\underline{Young, S}, S Steelman, R Daza, \textbf{MG Chevrette}, R Lintner, S Gnerre, A Berlin, B Walker, C Nusbaum, R Nicol.  Generation of High-quality Draft Assemblies with a Single Sequencing Library.  Poster at: Sequencing, Finishing, Analysis in the Future; Santa Fe, NM; May 29-31, 2013.} \vspace{1.5mm}
+\cvitem{}{	\underline{Steelman, S}, R Daza, \textbf{MG Chevrette}, P Kompella, P Trang, T Surabian, R Lintner, CZ Zhang, J Jung, M Meyerson, C Nusbaum, R Nicol.  Automated Low Input Mate-Pair Library Construction for Illumina Sequencing.  Poster at: Advances in Genome Biology \& Technology; Marco Island, FL; Feb 15-18, 2012.} \vspace{1.5mm}
+\cvitem{}{	Steelman, S, R Daza, \underline{\textbf{MG Chevrette}}, P Kompella, P Trang, T Surabian, R Lintner, R Nicol.  Microbial Mate-Pair Library Construction for de novo Detection of Structural Rearrangements.  Poster at: Broad Institute Retreat; Boston, MA; Nov 7-8, 2011.} \vspace{1.5mm}
+
+%\section{Invited Talks}
+%\cvitem{}{\textbf{Chevrette, MG}.  "Mining Actinomycetes for Natural Products."  University of Wisconsin, Madison, WI. Aug 25, 2014.}\vspace{1.5mm}
+
+
+\section{Achievements \& Awards}
+\cventry{}{Harvard University Extension}{Dean's Academic Achievement Award}{03/2015}{}{}
+%\cventry{}{Warp Drive Bio}{Core Value Award Nomination -- \textit{"Courageous: Uncompromising Science"}}{2014}{}{}
+%\cventry{}{Warp Drive Bio}{Core Value Award Nomination -- \textit{"Unbounded: Reimagining the Possible"}}{2014}{}{}
+\cventry{}{Broad Institute of MIT \& Harvard}{Featured Scientific Researcher -- \textit{"Who is Broad?"}}{01/2012}{}{}
+\cventry{}{Rensselaer Polytechnic Institute}{Rensselaer Alumni Scholarship}{2004--2008}{}{}
+\cventry{}{Rensselaer Polytechnic Institute}{Sal H. Alfiero Scholarship}{2004--2008}{}{}
+\cventry{}{Rensselaer Polytechnic Institute}{Rhode Island State Scholarship}{2004--2008}{}{}
+%\cvdoubleitem{category 1}{XXX, YYY, ZZZ}{category 4}{XXX, YYY, ZZZ}
+%\cvdoubleitem{category 2}{XXX, YYY, ZZZ}{category 5}{XXX, YYY, ZZZ}
+%\cvdoubleitem{category 3}{XXX, YYY, ZZZ}{category 6}{XXX, YYY, ZZZ}
+
+\section{Service}
+\cventry{}{Long Now Foundation -- Revive \& Restore}{Open Genomics Advisor}{04/2014--03/2015}{}{
+\begin{itemize}
+\item Advised projects with Revive and Restore and Cofactor Genomics seeking to understand the genomics of the endangered and extremely bottlenecked black footed ferret and the extinct heath hen in an effort to reintroduce genetic diversity and aid in restoration of healthy wild populations.
+\end{itemize}}
+\cventry{}{Broad Institute of MIT \& Harvard}{Environmental, Health, and Safety Representative}{01/2011--03/2013}{}{
+}
+
+%\section{Other Research}
+%\cvitem{Acknowledged in Publication}{Grad, YH, et al.  (2012). Genomic epidemiology of the Escherichia coli O104:H4 outbreaks in Europe, 2011. Proceedings of the National Academy of Sciences, 109(8), 3065-3070.}
+
+
+
+
+%\cvitem{hobby 2}{Description}
+%\cvitem{hobby 3}{Description}
+
+%\section{Extra 1}
+%\cvlistitem{Item 1}
+%\cvlistitem{Item 2}
+%\cvlistitem{Item 3. This item is particularly long and therefore normally spans over several lines. Did you notice the indentation when the line wraps?}
+
+%\section{Extra 2}
+%\cvlistdoubleitem{Item 1}{Item 4}
+%\cvlistdoubleitem{Item 2}{Item 5\cite{book1}}
+%\cvlistdoubleitem{Item 3}{Item 6. Like item 3 in the single column list before, this item is particularly long to wrap over several lines.}
+
+%\section{References}
+%\begin{cvcolumns}
+%  \cvcolumn{Category 1}{\begin{itemize}\item Person 1\item Person 2\item %Person 3\end{itemize}}
+%  \cvcolumn{Category 2}{Amongst others:\begin{itemize}\item Person 1, %and\item Person 2\end{itemize}(more upon request)}
+%  \cvcolumn[0.5]{All the rest \& some more}{\textit{That} person, and %\textbf{those} also (all available upon request).}
+%\end{cvcolumns}
+
+% Publications from a BibTeX file without multibib
+%  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
+%  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
+%\nocite{*}
+%\bibliographystyle{plain}
+%\bibliography{publications}                        % 'publications' is the name of a BibTeX file
+
+% Publications from a BibTeX file using the multibib package
+%\section{Publications}
+%\nocitebook{book1,book2}
+%\bibliographystylebook{plain}
+%\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
+%\nocitemisc{misc1,misc2,misc3}
+%\bibliographystylemisc{plain}
+%\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+
+%\clearpage
+%-----       letter       ---------------------------------------------------------
+% recipient data
+%\recipient{Company Recruitment team}{Company, Inc.\\123 somestreet\\some city}
+%\date{January 01, 1984}
+%\opening{Dear Sir or Madam,}
+%\closing{Yours faithfully,}
+%\enclosure[Attached]{curriculum vit\ae{}}          % use an optional argument to use a string other than "Enclosure", or redefine \enclname
+%\makelettertitle
+
+%Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ullamcorper neque sit amet lectus facilisis sed luctus nisl iaculis. Vivamus at neque arcu, sed tempor quam. Curabitur pharetra tincidunt tincidunt. Morbi volutpat feugiat mauris, quis tempor neque vehicula volutpat. Duis tristique justo vel massa fermentum accumsan. Mauris ante elit, feugiat vestibulum tempor eget, eleifend ac ipsum. Donec scelerisque lobortis ipsum eu vestibulum. Pellentesque vel massa at felis accumsan rhoncus.
+
+%Suspendisse commodo, massa eu congue tincidunt, elit mauris pellentesque orci, cursus tempor odio nisl euismod augue. Aliquam adipiscing nibh ut odio sodales et pulvinar tortor laoreet. Mauris a accumsan ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse vulputate sem vehicula ipsum varius nec tempus dui dapibus. Phasellus et est urna, ut auctor erat. Sed tincidunt odio id odio aliquam mattis. Donec sapien nulla, feugiat eget adipiscing sit amet, lacinia ut dolor. Phasellus tincidunt, leo a fringilla consectetur, felis diam aliquam urna, vitae aliquet lectus orci nec velit. Vivamus dapibus varius blandit.
+
+%Duis sit amet magna ante, at sodales diam. Aenean consectetur porta risus et sagittis. Ut interdum, enim varius pellentesque tincidunt, magna libero sodales tortor, ut fermentum nunc metus a ante. Vivamus odio leo, tincidunt eu luctus ut, sollicitudin sit amet metus. Nunc sed orci lectus. Ut sodales magna sed velit volutpat sit amet pulvinar diam venenatis.
+
+%Albert Einstein discovered that $e=mc^2$ in 1905.
+
+%\[ e=\lim_{n \to \infty} \left(1+\frac{1}{n}\right)^n \]
+
+%\makeletterclosing
+
+%\clearpage\end{CJK*}                              % if you are typesetting your resume in Chinese using CJK; the \clearpage is required for fancyhdr to work correctly with CJK, though it kills the page numbering by making \lastpage undefined
+
+
+
+
+\end{document}
+
+
+%% end of file `template.tex'.

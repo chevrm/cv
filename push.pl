@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 
-system("git add .");
+system("git add --all ./");
 my $com = undef;
 if($ARGV[0]){
 	$com = $ARGV[0];

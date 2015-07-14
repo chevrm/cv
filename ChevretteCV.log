@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.26)  2 JUL 2015 16:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.26)  13 JUL 2015 21:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1001,7 +1001,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  24922 strings out of 493304
  443895 string characters out of 6139871
- 520885 words of memory out of 5000000
+ 520887 words of memory out of 5000000
  27907 multiletter control sequences out of 15000+600000
  64748 words of font info for 74 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1016,7 +1016,7 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></us
 r/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type
 1/public/tex-gyre/qplbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.
 pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on ChevretteCV.pdf (3 pages, 178945 bytes).
+Output written on ChevretteCV.pdf (3 pages, 178940 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  87 compressed objects within 1 object stream

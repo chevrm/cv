@@ -180,7 +180,8 @@
 
 \renewcommand*{\cvitem}[3][.25em]{%
   \ifthenelse{\equal{#2}{}}{}{\hintstyle{#2}: }{#3}%
-  \par\addvspace{#1}}
+  \par
+  \addvspace{#1}}
 
 \renewcommand*{\cvdoubleitem}[5][.25em]{%
   \begin{minipage}[t]{\doubleitemcolumnwidth}\hintstyle{#2}: #3\end{minipage}%

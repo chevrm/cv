@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.1)  18 APR 2016 01:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.7)  18 APR 2016 10:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -984,16 +984,13 @@ Package rerunfilecheck Info: File `ChevretteCV.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 24942 strings out of 494985
- 444062 string characters out of 6180357
- 516633 words of memory out of 5000000
+ 24946 strings out of 494985
+ 444104 string characters out of 6180356
+ 516634 words of memory out of 5000000
  27663 multiletter control sequences out of 15000+600000
- 63287 words of font info for 83 fonts, out of 8000000 for 9000
+ 63559 words of font info for 85 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  77i,13n,61p,10388b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/e
@@ -1006,7 +1003,7 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></us
 r/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type
 1/public/tex-gyre/qplbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.
 pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on ChevretteCV.pdf (5 pages, 184602 bytes).
+Output written on ChevretteCV.pdf (5 pages, 184857 bytes).
 PDF statistics:
  115 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream

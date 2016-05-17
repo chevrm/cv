@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.7)  18 APR 2016 10:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.7)  17 MAY 2016 15:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -957,11 +957,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--68
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 101.
+(Font)              <10> on input line 100.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 101.
+(Font)              <7> on input line 100.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 101.
+(Font)              <5> on input line 100.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
@@ -972,12 +972,12 @@ ights from the Metagenome
  []
 
 [2] [3] [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 215.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 215.
  (./ChevretteCV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 214.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 214.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 215.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 215.
 Package rerunfilecheck Info: File `ChevretteCV.out' has not changed.
 (rerunfilecheck)             Checksum: ED3B2FB706DF6213DA739F6189C8BBC2;929.
 
@@ -986,11 +986,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 24946 strings out of 494985
- 444104 string characters out of 6180356
+ 24950 strings out of 494985
+ 444142 string characters out of 6180356
  516634 words of memory out of 5000000
  27663 multiletter control sequences out of 15000+600000
- 63559 words of font info for 85 fonts, out of 8000000 for 9000
+ 63831 words of font info for 87 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  77i,13n,61p,10388b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/e
@@ -1003,7 +1003,7 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></us
 r/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type
 1/public/tex-gyre/qplbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.
 pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on ChevretteCV.pdf (5 pages, 184864 bytes).
+Output written on ChevretteCV.pdf (5 pages, 184998 bytes).
 PDF statistics:
  115 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream

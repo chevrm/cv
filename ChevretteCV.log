@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.12)  8 SEP 2016 15:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.12)  9 SEP 2016 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -966,11 +966,11 @@ ights from the Metagenome
  []
 
 [3] [4] [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 225.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 225.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 226.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 226.
  (./ChevretteCV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 225.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 225.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 226.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 226.
 Package rerunfilecheck Info: File `ChevretteCV.out' has not changed.
 (rerunfilecheck)             Checksum: 1F80C37671CF75EFA78FB4F51009D4AB;1042.
 
@@ -979,11 +979,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 28053 strings out of 494910
- 518254 string characters out of 6179836
+ 28055 strings out of 494910
+ 518274 string characters out of 6179836
  566081 words of memory out of 5000000
  30886 multiletter control sequences out of 15000+600000
- 63958 words of font info for 88 fonts, out of 8000000 for 9000
+ 64091 words of font info for 89 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  76i,12n,70p,10363b,556s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/e
@@ -996,7 +996,7 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></us
 r/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type
 1/public/tex-gyre/qplbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.
 pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on ChevretteCV.pdf (5 pages, 187218 bytes).
+Output written on ChevretteCV.pdf (5 pages, 187424 bytes).
 PDF statistics:
  114 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream

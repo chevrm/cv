@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.12)  9 SEP 2016 15:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.12)  19 SEP 2016 15:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -959,20 +959,20 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Overfull \hbox (2.07214pt too wide) in paragraph at lines 144--144
+Overfull \hbox (2.07214pt too wide) in paragraph at lines 141--141
 [][]\T1/qpl/b/n/10.95 P1[]\T1/qpl/m/n/10.95 (-20) : John-son, SS, \T1/qpl/b/n/1
 0.95 MG Chevrette\T1/qpl/m/n/10.95 (-20) , BL Ehlmann, KC Beni-son. 2015. "In-s
 ights from the Metagenome
  []
 
 [3] [4] [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 226.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 226.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 230.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 230.
  (./ChevretteCV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 226.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 226.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 230.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 230.
 Package rerunfilecheck Info: File `ChevretteCV.out' has not changed.
-(rerunfilecheck)             Checksum: 1F80C37671CF75EFA78FB4F51009D4AB;1042.
+(rerunfilecheck)             Checksum: A6BCD63067CAA2F97C12F576CD2E4A69;1090.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -996,7 +996,7 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></us
 r/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type
 1/public/tex-gyre/qplbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.
 pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on ChevretteCV.pdf (5 pages, 187424 bytes).
+Output written on ChevretteCV.pdf (5 pages, 187687 bytes).
 PDF statistics:
  114 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream

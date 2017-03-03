@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.14)  3 MAR 2017 11:44
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.14)  3 MAR 2017 11:47
 entering extended mode
 **./ChevretteCV.tex
 (ChevretteCV.tex
@@ -828,28 +828,28 @@ LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 4.99992pt on input line 117.
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 112--130
+Overfull \hbox (14.22638pt too wide) in alignment at lines 112--125
 [] [] 
  []
 
-[2]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 131--194
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 126--195
 [] [] 
  []
 
-) (cv/honors.tex) (cv/service.tex [3]) (cv/teaching.tex) (cv/orgs.tex)
+[2]) (cv/honors.tex) (cv/service.tex [3]) (cv/teaching.tex) (cv/orgs.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
- [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
 
-(ChevretteCV.aux)
+[4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
+ (ChevretteCV.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 92.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 92.
  ) 
 Here is how much of TeX's memory you used:
  28062 strings out of 428408
  482660 string characters out of 3160621
- 609558 words of memory out of 3000000
+ 616558 words of memory out of 3000000
  31202 multiletter control sequences out of 15000+200000
  7834 words of font info for 90 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191

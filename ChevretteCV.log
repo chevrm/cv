@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.11.1)  30 MAR 2017 15:00
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.11.1)  21 APR 2017 13:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -821,29 +821,29 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 14--27
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 37--100
+Overfull \hbox (14.22638pt too wide) in alignment at lines 37--101
 [] [] 
  []
 
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 117.
+(Font)              scaled to size 9.00014pt on input line 118.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 117.
+(Font)              scaled to size 6.00009pt on input line 118.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 117.
+(Font)              scaled to size 5.00008pt on input line 118.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 117.
+(Font)              scaled to size 8.99986pt on input line 118.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 117.
+(Font)              scaled to size 5.99991pt on input line 118.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 117.
+(Font)              scaled to size 4.99992pt on input line 118.
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 112--125
+Overfull \hbox (14.22638pt too wide) in alignment at lines 113--126
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 126--210
+Overfull \hbox (14.22638pt too wide) in alignment at lines 127--211
 [] [] 
  []
 

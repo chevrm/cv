@@ -607,7 +607,7 @@
 % Define a line of cv information(honor, award or something else)
 % Usage: \cvpub{<title>}{<date>}
 \newcommand*{\cvpub}[2]{%
-  \pubdatestyle{#2} & \pubtitlestyle{#1} \\
+  \pubdatestyle{#2} & \hangpara{0.5cm}{1}\pubtitlestyle{#1} \\
 }
 
 % Define an environment for cvskill

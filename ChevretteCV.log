@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.14)  29 MAY 2017 14:49
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.14)  31 MAY 2017 21:17
 entering extended mode
 **./ChevretteCV.tex
 (ChevretteCV.tex
@@ -843,11 +843,11 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 92.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 92.
  ) 
 Here is how much of TeX's memory you used:
- 28062 strings out of 428408
- 482660 string characters out of 3160621
- 610558 words of memory out of 3000000
- 31202 multiletter control sequences out of 15000+200000
- 7834 words of font info for 90 fonts, out of 3000000 for 9000
+ 28064 strings out of 428408
+ 482722 string characters out of 3160621
+ 610589 words of memory out of 3000000
+ 31203 multiletter control sequences out of 15000+200000
+ 7842 words of font info for 91 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  53i,12n,70p,10389b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
 

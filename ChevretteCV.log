@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.14)  1 JUN 2017 14:31
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.14)  2 JUN 2017 11:59
 entering extended mode
 **./ChevretteCV.tex
 (ChevretteCV.tex
@@ -827,19 +827,19 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 37--100
 
 [2]
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 121.
+(Font)              scaled to size 9.00014pt on input line 122.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 121.
+(Font)              scaled to size 6.00009pt on input line 122.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 121.
+(Font)              scaled to size 5.00008pt on input line 122.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 121.
+(Font)              scaled to size 8.99986pt on input line 122.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 121.
+(Font)              scaled to size 5.99991pt on input line 122.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 121.
+(Font)              scaled to size 4.99992pt on input line 122.
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 116--210
+Overfull \hbox (14.22638pt too wide) in alignment at lines 116--216
 [] [] 
  []
 
@@ -855,7 +855,7 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 94.
 Here is how much of TeX's memory you used:
  28134 strings out of 428408
  483539 string characters out of 3160621
- 611021 words of memory out of 3000000
+ 609021 words of memory out of 3000000
  31270 multiletter control sequences out of 15000+200000
  7842 words of font info for 91 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191

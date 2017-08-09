@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.14)  12 JUL 2017 15:28
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.14)  9 AUG 2017 15:01
 entering extended mode
 **./ChevretteCV.tex
 (ChevretteCV.tex
@@ -825,21 +825,26 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 37--111
 [] [] 
  []
 
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 112--120
+[] [] 
+ []
+
 [2]
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 133.
+(Font)              scaled to size 9.00014pt on input line 137.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 133.
+(Font)              scaled to size 6.00009pt on input line 137.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 133.
+(Font)              scaled to size 5.00008pt on input line 137.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 133.
+(Font)              scaled to size 8.99986pt on input line 137.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 133.
+(Font)              scaled to size 5.99991pt on input line 137.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 133.
+(Font)              scaled to size 4.99992pt on input line 137.
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 127--227
+Overfull \hbox (14.22638pt too wide) in alignment at lines 131--230
 [] [] 
  []
 

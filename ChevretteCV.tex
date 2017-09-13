@@ -3,13 +3,8 @@
 % Based on Awesome-CV at https://github.com/posquit0/Awesome-CV
 %
 
-% A4 paper size by default, use 'letterpaper' for US letter
 \documentclass[11pt, a4paper]{awesome-cv}
-
-% Configure page margins with geometry
 \geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
-
-% Specify the location of the included fonts
 \fontdir[fonts/]
 
 % Color for highlights
@@ -38,14 +33,10 @@
 % add hanging indent support
 \usepackage{hanging}
 
-%-------------------------------------------------------------------------------
-%	PERSONAL INFORMATION
-%	Comment any of the lines below if they are not required
-%-------------------------------------------------------------------------------
+
 \name{Marc G}{Chevrette}
 %\position{Computational Biologist{\enskip\cdotp\enskip}Scientist}
 \address{2001 Monroe Street, Madison, WI, 53711}
-
 \mobile{401.269.9173} 
 \email{chevrm@gmail.com}
 \homepage{chevrm.github.io}
@@ -56,28 +47,15 @@
 % \skype{skype-id}
 % \reddit{reddit-id}
 \extrainfo{\textbf{ORCID:} 0000-0002-7209-0717}
-
 %\quote{``Why would you put a quote in your CV."}
 
 
-%-------------------------------------------------------------------------------
 \begin{document}
-
-% Print the header with above personal informations
 \makecvheader
-
-% Print the footer with 3 arguments(<left>, <center>, <right>)
-% Leave any of these blank if they are not needed
 \makecvfooter
   {\today}
   {Marc G. Chevrette~~~·~~~Curriculum Vitae}
   {\thepage}
-
-
-%-------------------------------------------------------------------------------
-%	CV/RESUME CONTENT
-%	Each section is imported separately, open each file in turn to modify content
-%-------------------------------------------------------------------------------
 
 \input{cv/education.tex}
 \input{cv/experience.tex}
@@ -90,5 +68,4 @@
 %\input{cv/skills.tex}
 %\input{cv/presentation.tex}
 
-%-------------------------------------------------------------------------------
 \end{document}

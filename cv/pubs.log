@@ -1,14 +1,12 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.23)  13 SEP 2017 10:19
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.14)  31 OCT 2017 11:33
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**pubs.tex
-(./pubs.tex
-LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 5 language(s) loaded.
+**./pubs.tex
+(pubs.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 ! Undefined control sequence.
-l.1 \cvsection
-              {Talks, Publications, \& Abstracts}
+l.3 \cvsection
+              {Publications, Talks, \& Abstracts}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -22,17 +20,11 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 \cvsection{T
-                alks, Publications, \& Abstracts}
+l.3 \cvsection{P
+                ublications, Talks, \& Abstracts}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no T in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no , in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no b in font nullfont!
@@ -44,6 +36,12 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no k in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no & in font nullfont!
@@ -57,13 +55,13 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--4
 []
  []
 
 ! Undefined control sequence.
-l.6 \cvsubsection
-                 {Invited Talks}
+l.8 \cvsubsection
+                 {Peer-reviewed Publications}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -77,395 +75,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 \cvsubsection{I
-                   nvited Talks}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no I in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no s in font nullfont!
-
-! LaTeX Error: Environment cvpubs undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 \begin{cvpubs}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-l.8   \cvpub
-            
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no ` in font nullfont!
-Missing character: There is no ` in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no N in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no " in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no N in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no x in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no 2 in font nullfont!
-! Undefined control sequence.
-l.11   \cvpub
-             
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no ` in font nullfont!
-Missing character: There is no ` in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no " in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no W in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no 1 in font nullfont!
-
-! LaTeX Error: \begin{document} ended by \end{cvpubs}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{cvpubs}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 6--15
-[]
- []
-
-! Undefined control sequence.
-l.19 \cvsubsection
-                  {Peer-reviewed Publications}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 \cvsubsection{P
-                    eer-reviewed Publications}
+l.8 \cvsubsection{P
+                   eer-reviewed Publications}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -501,14 +112,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.20 \begin{cvpubs}
-                   
+l.9 \begin{cvpubs}
+                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.21   \cvpub
+l.10   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -518,7 +129,7 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no * in font nullfont!
 ! Undefined control sequence.
-l.24   \cvpub
+l.13   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -799,7 +410,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no 7 in font nullfont!
 ! Undefined control sequence.
-l.27   \cvpub
+l.16   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -894,17 +505,17 @@ Missing character: There is no L in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no r in font nullfont!
-LaTeX Font Info:    Try loading font information for +cmr on input line 28.
-LaTeX Font Info:    No file cmr.fd. on input line 28.
+LaTeX Font Info:    Try loading font information for +cmr on input line 17.
+LaTeX Font Info:    No file cmr.fd. on input line 17.
 
 LaTeX Font Warning: Font shape `/cmr/m/n' undefined
-(Font)              using `/cmr/m/n' instead on input line 28.
+(Font)              using `/cmr/m/n' instead on input line 17.
 
 ! Corrupted NFSS tables.
 wrong@fontshape ...message {Corrupted NFSS tables}
                                                   error@fontshape else let f...
-l.28 ...K Ravi, GB Pier, S Lory, T Maira-Litr\'{a}
-                                                  n. ``Complexity of Complem...
+l.17 ...K Ravi, GB Pier, S Lory, T Maira-Litr\'{a}
+                                                  n. (2017). ``Complexity of...
 This error message was generated by an \errmessage
 command, so I can't give any explicit help.
 Pretend that you're Hercule Poirot: Examine all clues,
@@ -912,9 +523,16 @@ and deduce the truth by order and method.
 
 
 LaTeX Font Warning: Font shape `/cmr/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 28.
+(Font)              using `OT1/cmr/m/n' instead on input line 17.
 
 Missing character: There is no n in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no ` in font nullfont!
 Missing character: There is no ` in font nullfont!
@@ -1015,10 +633,31 @@ Missing character: There is no 8 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no . in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no I in font nullfont!
+! Undefined control sequence.
+l.17 ...rnal of Immunology}, 199: ji1700877. \href
+                                                  {https://doi.org/10.4049/j...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no : in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no / in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -1043,10 +682,14 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no 7 in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no k in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no 6 in font nullfont!
 ! Undefined control sequence.
-l.30   \cvpub
+l.19   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1094,6 +737,13 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no a in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no ` in font nullfont!
 Missing character: There is no ` in font nullfont!
@@ -1251,7 +901,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no 5 in font nullfont!
 ! Undefined control sequence.
-l.33   \cvpub
+l.22   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1409,7 +1059,7 @@ Missing character: There is no 5 in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no 4 in font nullfont!
 ! Undefined control sequence.
-l.36   \cvpub
+l.25   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1708,7 +1358,7 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Undefined control sequence.
-l.39   \cvpub
+l.28   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1906,7 +1556,7 @@ Missing character: There is no 8 in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Undefined control sequence.
-l.42   \cvpub
+l.31   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2114,333 +1764,1117 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.45 \end{cvpubs}
+l.34 \end{cvpubs}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.34 \end{cvpubs}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--35
+[]
+ []
+
+
+Overfull \hbox (18.39986pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 con-
+ []
+
+
+Overfull \hbox (33.09418pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 tributed
+ []
+
+
+Overfull \hbox (29.64423pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 equally
+ []
+
+
+Overfull \hbox (19.95822pt too wide) in paragraph at lines 8--35
+\OT1/cmr/bx/n/10 MG
+ []
+
+
+Overfull \hbox (50.25671pt too wide) in paragraph at lines 8--35
+\OT1/cmr/bx/n/10 Chevrette
+ []
+
+
+Overfull \hbox (16.63322pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 Un-
+ []
+
+
+Overfull \hbox (13.92767pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 der
+ []
+
+
+Overfull \hbox (11.88321pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 re-
+ []
+
+
+Overfull \hbox (18.91098pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 view
+ []
+
+
+Overfull \hbox (19.95822pt too wide) in paragraph at lines 8--35
+\OT1/cmr/bx/n/10 MG
+ []
+
+
+Overfull \hbox (50.25671pt too wide) in paragraph at lines 8--35
+\OT1/cmr/bx/n/10 Chevrette
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 8--35
+\/cmr/m/n/10 ^^Sa
+ []
+
+
+Overfull \hbox (28.38867pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 Acine-
+ []
+
+
+Overfull \hbox (12.01102pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 to-
+ []
+
+
+Overfull \hbox (17.37762pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 bac-
+ []
+
+
+Overfull \hbox (12.13878pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 ter
+ []
+
+
+Overfull \hbox (18.1443pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 bau-
+ []
+
+
+Overfull \hbox (22.48875pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 man-
+ []
+
+
+Overfull \hbox (11.7555pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 nii
+ []
+
+
+Overfull \hbox (23.52205pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 Jour-
+ []
+
+
+Overfull \hbox (13.28882pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 nal
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (15.61101pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 Im-
+ []
+
+
+Overfull \hbox (30.41093pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 munol-
+ []
+
+
+Overfull \hbox (14.05544pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 ogy
+ []
+
+
+Overfull \hbox (53.45114pt too wide) in paragraph at lines 8--35
+\OT1/cmr/bx/n/10 Chevrette,
+ []
+
+
+Overfull \hbox (19.95822pt too wide) in paragraph at lines 8--35
+\OT1/cmr/bx/n/10 MG
+ []
+
+
+Overfull \hbox (27.48317pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 Bioin-
+ []
+
+
+Overfull \hbox (15.9721pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 for-
+ []
+
+
+Overfull \hbox (20.18875pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 mat-
+ []
+
+
+Overfull \hbox (11.75548pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 ics
+ []
+
+
+Overfull \hbox (19.95822pt too wide) in paragraph at lines 8--35
+\OT1/cmr/bx/n/10 MG
+ []
+
+
+Overfull \hbox (50.25671pt too wide) in paragraph at lines 8--35
+\OT1/cmr/bx/n/10 Chevrette
+ []
+
+
+Overfull \hbox (17.65544pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 Ma-
+ []
+
+
+Overfull \hbox (17.50543pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 rine
+ []
+
+
+Overfull \hbox (25.82204pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 Drugs
+ []
+
+
+Overfull \hbox (19.95822pt too wide) in paragraph at lines 8--35
+\OT1/cmr/bx/n/10 MG
+ []
+
+
+Overfull \hbox (50.25671pt too wide) in paragraph at lines 8--35
+\OT1/cmr/bx/n/10 Chevrette
+ []
+
+
+Overfull \hbox (16.37767pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 Nu-
+ []
+
+
+Overfull \hbox (19.42207pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 cleic
+ []
+
+
+Overfull \hbox (23.78873pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 Acids
+ []
+
+
+Overfull \hbox (14.96098pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 Re-
+ []
+
+
+Overfull \hbox (26.70534pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 search
+ []
+
+
+Overfull \hbox (19.95822pt too wide) in paragraph at lines 8--35
+\OT1/cmr/bx/n/10 MG
+ []
+
+
+Overfull \hbox (50.25671pt too wide) in paragraph at lines 8--35
+\OT1/cmr/bx/n/10 Chevrette
+ []
+
+
+Overfull \hbox (16.37766pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 An-
+ []
+
+
+Overfull \hbox (18.65546pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 nual
+ []
+
+
+Overfull \hbox (14.96098pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 Re-
+ []
+
+
+Overfull \hbox (18.91098pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 view
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (15.61101pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 Mi-
+ []
+
+
+Overfull \hbox (16.9943pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 cro-
+ []
+
+
+Overfull \hbox (11.24435pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 bi-
+ []
+
+
+Overfull \hbox (11.24437pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 ol-
+ []
+
+
+Overfull \hbox (14.05544pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 ogy
+ []
+
+
+Overfull \hbox (19.95822pt too wide) in paragraph at lines 8--35
+\OT1/cmr/bx/n/10 MG
+ []
+
+
+Overfull \hbox (50.25671pt too wide) in paragraph at lines 8--35
+\OT1/cmr/bx/n/10 Chevrette
+ []
+
+
+Overfull \hbox (26.34428pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 PLOS
+ []
+
+
+Overfull \hbox (21.88321pt too wide) in paragraph at lines 8--35
+\OT1/cmr/m/it/10 ONE
+ []
+
+! Undefined control sequence.
+l.39 \cvsubsection
+                  {Invited Talks}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \cvsubsection{I
+                    nvited Talks}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no s in font nullfont!
+
+! LaTeX Error: Environment cvpubs undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \begin{cvpubs}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.41   \cvpub
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ` in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no & in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no & in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no J in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no 4 in font nullfont!
+! Undefined control sequence.
+l.44   \cvpub
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ` in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no J in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no 3 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 39--47
+[]
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{cvpubs}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \end{cvpubs}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 19--46
-[]
- []
-
-
-Overfull \hbox (18.39986pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 con-
- []
-
-
-Overfull \hbox (33.09418pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 tributed
- []
-
-
-Overfull \hbox (29.64423pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 equally
- []
-
-
-Overfull \hbox (19.95822pt too wide) in paragraph at lines 19--46
-\OT1/cmr/bx/n/10 MG
- []
-
-
-Overfull \hbox (50.25671pt too wide) in paragraph at lines 19--46
-\OT1/cmr/bx/n/10 Chevrette
- []
-
-
-Overfull \hbox (16.63322pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 Un-
- []
-
-
-Overfull \hbox (13.92767pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 der
- []
-
-
-Overfull \hbox (11.88321pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 re-
- []
-
-
-Overfull \hbox (18.91098pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 view
- []
-
-
-Overfull \hbox (19.95822pt too wide) in paragraph at lines 19--46
-\OT1/cmr/bx/n/10 MG
- []
-
-
-Overfull \hbox (50.25671pt too wide) in paragraph at lines 19--46
-\OT1/cmr/bx/n/10 Chevrette
- []
-
-
-Overfull \hbox (10.00003pt too wide) in paragraph at lines 19--46
-\/cmr/m/n/10 ^^Sa
- []
-
-
-Overfull \hbox (28.38867pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 Acine-
- []
-
-
-Overfull \hbox (12.01102pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 to-
- []
-
-
-Overfull \hbox (17.37762pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 bac-
- []
-
-
-Overfull \hbox (12.13878pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 ter
- []
-
-
-Overfull \hbox (18.1443pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 bau-
- []
-
-
-Overfull \hbox (22.48875pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 man-
- []
-
-
-Overfull \hbox (11.7555pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 nii
- []
-
-
-Overfull \hbox (23.52205pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 Jour-
- []
-
-
-Overfull \hbox (13.28882pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 nal
- []
-
-
-Overfull \hbox (8.17773pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 of
- []
-
-
-Overfull \hbox (15.61101pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 Im-
- []
-
-
-Overfull \hbox (30.41093pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 munol-
- []
-
-
-Overfull \hbox (14.05544pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 ogy
- []
-
-
-Overfull \hbox (53.45114pt too wide) in paragraph at lines 19--46
-\OT1/cmr/bx/n/10 Chevrette,
- []
-
-
-Overfull \hbox (19.95822pt too wide) in paragraph at lines 19--46
-\OT1/cmr/bx/n/10 MG
- []
-
-
-Overfull \hbox (27.48317pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 Bioin-
- []
-
-
-Overfull \hbox (15.9721pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 for-
- []
-
-
-Overfull \hbox (20.18875pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 mat-
- []
-
-
-Overfull \hbox (11.75548pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 ics
- []
-
-
-Overfull \hbox (19.95822pt too wide) in paragraph at lines 19--46
-\OT1/cmr/bx/n/10 MG
- []
-
-
-Overfull \hbox (50.25671pt too wide) in paragraph at lines 19--46
-\OT1/cmr/bx/n/10 Chevrette
- []
-
-
-Overfull \hbox (17.65544pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 Ma-
- []
-
-
-Overfull \hbox (17.50543pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 rine
- []
-
-
-Overfull \hbox (25.82204pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 Drugs
- []
-
-
-Overfull \hbox (19.95822pt too wide) in paragraph at lines 19--46
-\OT1/cmr/bx/n/10 MG
- []
-
-
-Overfull \hbox (50.25671pt too wide) in paragraph at lines 19--46
-\OT1/cmr/bx/n/10 Chevrette
- []
-
-
-Overfull \hbox (16.37767pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 Nu-
- []
-
-
-Overfull \hbox (19.42207pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 cleic
- []
-
-
-Overfull \hbox (23.78873pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 Acids
- []
-
-
-Overfull \hbox (14.96098pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 Re-
- []
-
-
-Overfull \hbox (26.70534pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 search
- []
-
-
-Overfull \hbox (19.95822pt too wide) in paragraph at lines 19--46
-\OT1/cmr/bx/n/10 MG
- []
-
-
-Overfull \hbox (50.25671pt too wide) in paragraph at lines 19--46
-\OT1/cmr/bx/n/10 Chevrette
- []
-
-
-Overfull \hbox (16.37766pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 An-
- []
-
-
-Overfull \hbox (18.65546pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 nual
- []
-
-
-Overfull \hbox (14.96098pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 Re-
- []
-
-
-Overfull \hbox (18.91098pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 view
- []
-
-
-Overfull \hbox (8.17773pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 of
- []
-
-
-Overfull \hbox (15.61101pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 Mi-
- []
-
-
-Overfull \hbox (16.9943pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 cro-
- []
-
-
-Overfull \hbox (11.24435pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 bi-
- []
-
-
-Overfull \hbox (11.24437pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 ol-
- []
-
-
-Overfull \hbox (14.05544pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 ogy
- []
-
-
-Overfull \hbox (19.95822pt too wide) in paragraph at lines 19--46
-\OT1/cmr/bx/n/10 MG
- []
-
-
-Overfull \hbox (50.25671pt too wide) in paragraph at lines 19--46
-\OT1/cmr/bx/n/10 Chevrette
- []
-
-
-Overfull \hbox (26.34428pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 PLOS
- []
-
-
-Overfull \hbox (21.88321pt too wide) in paragraph at lines 19--46
-\OT1/cmr/m/it/10 ONE
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-! LaTeX Error: The font size command \normalsize is not defined:
-               there is probably something wrong with the class file.
+! LaTeX Error: Environment cvpubs undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.54 
-     
+l.50 \begin{cvpubs}
+                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[1]
 ! Undefined control sequence.
-l.55 \cvsubsection
+l.53   \cvpub
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54     {`
+           `Computational Insights into the Diverse Nonribosomal Peptide Che...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ` in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no 2 in font nullfont!
+! Undefined control sequence.
+l.56   \cvpub
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ` in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no 1 in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{cvpubs}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 \end{cvpubs}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 54--60
+[]
+ []
+
+! Undefined control sequence.
+l.64 \cvsubsection
                   {Genome Announcements (Editorial Review only)}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2455,7 +2889,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.55 \cvsubsection{G
+l.64 \cvsubsection{G
                     enome Announcements (Editorial Review only)}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2507,14 +2941,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.56 \begin{cvpubs}
+l.65 \begin{cvpubs}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.57   \cvpub
+l.66   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2567,6 +3001,13 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no i in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no ` in font nullfont!
 Missing character: There is no ` in font nullfont!
@@ -2662,7 +3103,7 @@ Missing character: There is no 6 in font nullfont!
 Missing character: There is no G in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Undefined control sequence.
-l.60   \cvpub
+l.69   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2859,104 +3300,104 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.63 \end{cvpubs}
+l.72 \end{cvpubs}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 55--64
+Overfull \hbox (20.0pt too wide) in paragraph at lines 64--73
 []
  []
 
 
-Overfull \hbox (19.95822pt too wide) in paragraph at lines 55--64
+Overfull \hbox (19.95822pt too wide) in paragraph at lines 64--73
 \OT1/cmr/bx/n/10 MG
  []
 
 
-Overfull \hbox (50.25671pt too wide) in paragraph at lines 55--64
+Overfull \hbox (50.25671pt too wide) in paragraph at lines 64--73
 \OT1/cmr/bx/n/10 Chevrette
  []
 
 
-Overfull \hbox (15.61101pt too wide) in paragraph at lines 55--64
+Overfull \hbox (15.61101pt too wide) in paragraph at lines 64--73
 \OT1/cmr/m/it/10 Mi-
  []
 
 
-Overfull \hbox (60.05515pt too wide) in paragraph at lines 55--64
+Overfull \hbox (60.05515pt too wide) in paragraph at lines 64--73
 \OT1/cmr/m/it/10 cromonospora
  []
 
 
-Overfull \hbox (12.2666pt too wide) in paragraph at lines 55--64
+Overfull \hbox (12.2666pt too wide) in paragraph at lines 64--73
 \OT1/cmr/m/it/10 sp.
  []
 
 
-Overfull \hbox (38.53865pt too wide) in paragraph at lines 55--64
+Overfull \hbox (38.53865pt too wide) in paragraph at lines 64--73
 \OT1/cmr/m/it/10 WMMB-
  []
 
 
-Overfull \hbox (15.33325pt too wide) in paragraph at lines 55--64
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 64--73
 \OT1/cmr/m/it/10 235
  []
 
 
-Overfull \hbox (35.847pt too wide) in paragraph at lines 55--64
+Overfull \hbox (35.847pt too wide) in paragraph at lines 64--73
 \OT1/cmr/m/it/10 Genome
  []
 
 
-Overfull \hbox (16.37766pt too wide) in paragraph at lines 55--64
+Overfull \hbox (16.37766pt too wide) in paragraph at lines 64--73
 \OT1/cmr/m/it/10 An-
  []
 
 
-Overfull \hbox (33.98865pt too wide) in paragraph at lines 55--64
+Overfull \hbox (33.98865pt too wide) in paragraph at lines 64--73
 \OT1/cmr/m/it/10 nounce-
  []
 
 
-Overfull \hbox (25.81094pt too wide) in paragraph at lines 55--64
+Overfull \hbox (25.81094pt too wide) in paragraph at lines 64--73
 \OT1/cmr/m/it/10 ments
  []
 
 
-Overfull \hbox (19.95822pt too wide) in paragraph at lines 55--64
+Overfull \hbox (19.95822pt too wide) in paragraph at lines 64--73
 \OT1/cmr/bx/n/10 MG
  []
 
 
-Overfull \hbox (50.25671pt too wide) in paragraph at lines 55--64
+Overfull \hbox (50.25671pt too wide) in paragraph at lines 64--73
 \OT1/cmr/bx/n/10 Chevrette
  []
 
 
-Overfull \hbox (35.847pt too wide) in paragraph at lines 55--64
+Overfull \hbox (35.847pt too wide) in paragraph at lines 64--73
 \OT1/cmr/m/it/10 Genome
  []
 
 
-Overfull \hbox (16.37766pt too wide) in paragraph at lines 55--64
+Overfull \hbox (16.37766pt too wide) in paragraph at lines 64--73
 \OT1/cmr/m/it/10 An-
  []
 
 
-Overfull \hbox (33.98865pt too wide) in paragraph at lines 55--64
+Overfull \hbox (33.98865pt too wide) in paragraph at lines 64--73
 \OT1/cmr/m/it/10 nounce-
  []
 
 
-Overfull \hbox (25.81094pt too wide) in paragraph at lines 55--64
+Overfull \hbox (25.81094pt too wide) in paragraph at lines 64--73
 \OT1/cmr/m/it/10 ments
  []
 
 ! Undefined control sequence.
-l.68 \cvsubsection
+l.77 \cvsubsection
                   {Abstracts}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2971,7 +3412,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.68 \cvsubsection{A
+l.77 \cvsubsection{A
                     bstracts}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2992,14 +3433,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.69 \begin{cvpubs}
+l.78 \begin{cvpubs}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.70   \cvpub
+l.79   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3008,9 +3449,9 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 71.
+(Font)              <7> on input line 80.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 71.
+(Font)              <5> on input line 80.
 Missing character: There is no A in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -3270,7 +3711,7 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Undefined control sequence.
-l.73   \cvpub
+l.82   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3572,7 +4013,7 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 ! Undefined control sequence.
-l.76   \cvpub
+l.85   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3814,7 +4255,7 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 ! Undefined control sequence.
-l.79   \cvpub
+l.88   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4019,7 +4460,7 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 ! Undefined control sequence.
-l.82   \cvpub
+l.91   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4215,7 +4656,7 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 ! Undefined control sequence.
-l.85   \cvpub
+l.94   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4443,7 +4884,7 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 ! Undefined control sequence.
-l.88   \cvpub
+l.97   \cvpub
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4657,8 +5098,8 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 ! Undefined control sequence.
-l.91   \cvpub
-             
+l.100   \cvpub
+              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -4934,8 +5375,8 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Undefined control sequence.
-l.94   \cvpub
-             
+l.103   \cvpub
+              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5161,8 +5602,8 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Undefined control sequence.
-l.97   \cvpub
-             
+l.106   \cvpub
+              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5383,7 +5824,7 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Undefined control sequence.
-l.100   \cvpub
+l.109   \cvpub
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5582,7 +6023,7 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Undefined control sequence.
-l.103   \cvpub
+l.112   \cvpub
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5857,7 +6298,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no 9 in font nullfont!
 ! Undefined control sequence.
-l.106   \cvpub
+l.115   \cvpub
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6054,7 +6495,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no 8 in font nullfont!
 ! Undefined control sequence.
-l.109   \cvpub
+l.118   \cvpub
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6254,7 +6695,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no 7 in font nullfont!
 ! Undefined control sequence.
-l.112   \cvpub
+l.121   \cvpub
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6433,7 +6874,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no 6 in font nullfont!
 ! Undefined control sequence.
-l.115   \cvpub
+l.124   \cvpub
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6593,7 +7034,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no 5 in font nullfont!
 ! Undefined control sequence.
-l.118   \cvpub
+l.127   \cvpub
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6754,8 +7195,34 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no 4 in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{cvpubs}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131 \end{cvpubs}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment cvpubs undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.132 \begin{cvpubs}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 ! Undefined control sequence.
-l.121   \cvpub
+l.134   \cvpub
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6989,7 +7456,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Undefined control sequence.
-l.124   \cvpub
+l.137   \cvpub
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7240,7 +7707,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Undefined control sequence.
-l.127   \cvpub
+l.140   \cvpub
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7461,7 +7928,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.130 \end{cvpubs}
+l.143 \end{cvpubs}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -7469,17 +7936,17 @@ or  <return>  to continue without it.
 
 )
 ! Emergency stop.
-<*> pubs.tex
-            
+<*> ./pubs.tex
+              
 *** (job aborted, no legal \end found)
 
  
 Here is how much of TeX's memory you used:
- 22 strings out of 495536
- 185 string characters out of 6186181
- 50739 words of memory out of 5000000
- 3395 multiletter control sequences out of 15000+600000
- 4294 words of font info for 16 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 19i,4n,16p,462b,113s stack positions out of 5000i,500n,10000p,200000b,80000s
-Output written on pubs.pdf (1 page).
+ 22 strings out of 428408
+ 181 string characters out of 3160621
+ 59104 words of memory out of 3000000
+ 3516 multiletter control sequences out of 15000+200000
+ 4294 words of font info for 16 fonts, out of 3000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 19i,4n,16p,464b,103s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.23)  31 OCT 2017 14:17
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.23)  31 OCT 2017 14:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -832,43 +832,38 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 9--34
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 40--49
-[] [] 
- []
-
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 50--59
+Overfull \hbox (14.22638pt too wide) in alignment at lines 40--53
 [] [] 
  []
 
 [2]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 65--72
+Overfull \hbox (14.22638pt too wide) in alignment at lines 59--66
 [] [] 
  []
 
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 81.
+(Font)              scaled to size 9.00014pt on input line 75.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 81.
+(Font)              scaled to size 6.00009pt on input line 75.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 81.
+(Font)              scaled to size 5.00008pt on input line 75.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 81.
+(Font)              scaled to size 8.99986pt on input line 75.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 81.
+(Font)              scaled to size 5.99991pt on input line 75.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 81.
+(Font)              scaled to size 4.99992pt on input line 75.
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 78--131
+Overfull \hbox (14.22638pt too wide) in alignment at lines 72--125
 [] [] 
  []
 
-[3]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 132--143
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 126--137
 [] [] 
  []
 
-) (./cv/honors.tex) (./cv/service.tex) (./cv/teaching.tex) (./cv/orgs.tex)
+[3]) (./cv/honors.tex) (./cv/service.tex) (./cv/teaching.tex) (./cv/orgs.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
 
 [4]
@@ -880,7 +875,7 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 71.
 Here is how much of TeX's memory you used:
  27982 strings out of 495536
  484449 string characters out of 6186181
- 601705 words of memory out of 5000000
+ 602705 words of memory out of 5000000
  30969 multiletter control sequences out of 15000+600000
  7826 words of font info for 89 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191

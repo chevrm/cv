@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.14)  9 NOV 2017 12:56
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xelatex 2017.1.14)  9 NOV 2017 20:55
 entering extended mode
 **./ChevretteCV.tex
 (ChevretteCV.tex
@@ -677,35 +677,35 @@ Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
 ) (ChevretteCV.aux)
 \openout1 = `ChevretteCV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 53.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 57.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 57.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tipa\t3cmr.fd"
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 53.
+LaTeX Info: Redefining \selectfont on input line 57.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -742,39 +742,39 @@ LaTeX Info: Redefining \selectfont on input line 53.
 
 \g__fontspec_family_latinmodern-math.otf_int=\count145
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 53.
+(Font)              `operators' in the math version `normal' on input line 57.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/latinmodern-math.otf(0)/m/n on inpu
-t line 53.
+t line 57.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 53.
+(Font)              `operators' in the math version `bold' on input line 57.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/latinmodern-math.otf(0)/bx/n on in
-put line 53.
+put line 57.
 LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 53.
+(Font)              `symbols' in the math version `normal' on input line 57.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> EU1/latinmodern-math.otf(1)/m/n on inp
-ut line 53.
+ut line 57.
 LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 53.
+(Font)              `symbols' in the math version `bold' on input line 57.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> EU1/latinmodern-math.otf(1)/bx/n on in
-put line 53.
+put line 57.
 LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 5
-3.
+7.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/m/n on inp
-ut line 53.
+ut line 57.
 LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 53.
+(Font)              `largesymbols' in the math version `bold' on input line 57.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/bx/n on in
-put line 53.
+put line 57.
 \AtBeginShipoutBox=\box44
-Package hyperref Info: Link coloring OFF on input line 53.
+Package hyperref Info: Link coloring OFF on input line 57.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -783,37 +783,40 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count146
 )
-LaTeX Info: Redefining \ref on input line 53.
-LaTeX Info: Redefining \pageref on input line 53.
-LaTeX Info: Redefining \nameref on input line 53.
+LaTeX Info: Redefining \ref on input line 57.
+LaTeX Info: Redefining \pageref on input line 57.
+LaTeX Info: Redefining \nameref on input line 57.
 
 (ChevretteCV.out) (ChevretteCV.out)
 \@outlinefile=\write3
 \openout3 = `ChevretteCV.out'.
 
  (cv/education.tex
+
+LaTeX Font Warning: Font shape `EU1/FontAwesome(0)/bx/n' undefined
+(Font)              using `EU1/FontAwesome(0)/m/n' instead on input line 2.
+
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.95015pt on input line 11.
+(Font)              scaled to size 10.95015pt on input line 10.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.67863pt on input line 11.
+(Font)              scaled to size 7.67863pt on input line 10.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.45398pt on input line 11.
+(Font)              scaled to size 5.45398pt on input line 10.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.94983pt on input line 11.
+(Font)              scaled to size 10.94983pt on input line 10.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.6784pt on input line 11.
+(Font)              scaled to size 7.6784pt on input line 10.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.45381pt on input line 11.
+(Font)              scaled to size 5.45381pt on input line 10.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <9> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 11.
+ut line 10.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <8> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 11.
-) (cv/experience.tex
-[1
+ut line 10.
+) (cv/experience.tex [1
 
 ]) (cv/consult.tex) (cv/pubs.tex
 Overfull \hbox (14.22638pt too wide) in alignment at lines 9--34
@@ -821,52 +824,61 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 9--34
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 40--53
+Overfull \hbox (14.22638pt too wide) in alignment at lines 40--51
+[] [] 
+ []
+
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 52--57
 [] [] 
  []
 
 [2]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 59--66
+Overfull \hbox (14.22638pt too wide) in alignment at lines 63--70
 [] [] 
  []
 
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 75.
+(Font)              scaled to size 9.00014pt on input line 79.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 75.
+(Font)              scaled to size 6.00009pt on input line 79.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 75.
+(Font)              scaled to size 5.00008pt on input line 79.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 75.
+(Font)              scaled to size 8.99986pt on input line 79.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 75.
+(Font)              scaled to size 5.99991pt on input line 79.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 75.
+(Font)              scaled to size 4.99992pt on input line 79.
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 72--128
+Overfull \hbox (14.22638pt too wide) in alignment at lines 76--129
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 129--137
+Overfull \hbox (14.22638pt too wide) in alignment at lines 130--141
 [] [] 
  []
 
 [3]) (cv/honors.tex) (cv/service.tex) (cv/teaching.tex) (cv/orgs.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
 
 (ChevretteCV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 71.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 71.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 75.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 75.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
  ) 
 Here is how much of TeX's memory you used:
- 28127 strings out of 428408
- 483345 string characters out of 3160621
- 611029 words of memory out of 3000000
- 31267 multiletter control sequences out of 15000+200000
- 7818 words of font info for 88 fonts, out of 3000000 for 9000
+ 28136 strings out of 428408
+ 483504 string characters out of 3160621
+ 611139 words of memory out of 3000000
+ 31275 multiletter control sequences out of 15000+200000
+ 7826 words of font info for 89 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  53i,12n,70p,10462b,466s stack positions out of 5000i,500n,10000p,200000b,50000s
 

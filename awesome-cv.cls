@@ -610,10 +610,11 @@
     \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} C{1.5cm} L{\textwidth - 1.0cm} }
 }{%
     \end{tabular*}
-  \end{center}
+ \end{center} 
 }
 % Define a line of cv information(honor, award or something else)
 % Usage: \cvpub{<title>}{<date>}
+
 \newcommand*{\cvpub}[2]{%
   \pubdatestyle{#2} & \hangpara{0.5cm}{1}\pubtitlestyle{#1} \\
 }

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.8.21)  28 AUG 2018 14:42
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.8.21)  30 AUG 2018 12:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -871,49 +871,49 @@ t line 10.
 ) (./cv/experience.tex [1
 
 ]) (./cv/pubs.tex
-Overfull \hbox (14.22638pt too wide) in alignment at lines 9--46
+Overfull \hbox (14.22638pt too wide) in alignment at lines 9--50
 [] [] 
  []
 
 [2]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 52--69
+Overfull \hbox (14.22638pt too wide) in alignment at lines 56--73
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 75--79
+Overfull \hbox (14.22638pt too wide) in alignment at lines 79--83
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 85--101
+Overfull \hbox (14.22638pt too wide) in alignment at lines 89--105
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 107--121
+Overfull \hbox (14.22638pt too wide) in alignment at lines 111--125
 [] [] 
  []
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 131.
+(Font)              scaled to size 9.00014pt on input line 135.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 131.
+(Font)              scaled to size 6.00009pt on input line 135.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 131.
+(Font)              scaled to size 5.00008pt on input line 135.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 131.
+(Font)              scaled to size 8.99986pt on input line 135.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 131.
+(Font)              scaled to size 5.99991pt on input line 135.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 131.
+(Font)              scaled to size 4.99992pt on input line 135.
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 128--148
+Overfull \hbox (14.22638pt too wide) in alignment at lines 132--152
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 149--211
+Overfull \hbox (14.22638pt too wide) in alignment at lines 153--215
 [] [] 
  []
 

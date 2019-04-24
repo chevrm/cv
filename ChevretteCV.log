@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.10.13)  22 FEB 2019 15:23
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.10.13)  24 APR 2019 13:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -868,15 +868,25 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
 t line 10.
-) (./cv/experience.tex [1
+) (./cv/experience.tex
+Overfull \hbox (2.92001pt too wide) in paragraph at lines 15--46
+   [] 
+ []
+
+
+Overfull \hbox (2.92001pt too wide) in paragraph at lines 71--97
+   [] 
+ []
+
+[1
 
 ]) (./cv/pubs.tex
-Overfull \hbox (14.22638pt too wide) in alignment at lines 9--59
+Overfull \hbox (14.22638pt too wide) in alignment at lines 9--51
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 60--79
+Overfull \hbox (14.22638pt too wide) in alignment at lines 52--79
 [] [] 
  []
 
@@ -896,39 +906,40 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 123--139
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 145--159
-[] [] 
- []
-
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 169.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 169.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 169.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 169.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 169.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 169.
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 166--171
+Overfull \hbox (14.22638pt too wide) in alignment at lines 145--154
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 172--238
+Overfull \hbox (14.22638pt too wide) in alignment at lines 155--163
 [] [] 
  []
 
 [3]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 239--256
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 9.00014pt on input line 173.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 6.00009pt on input line 173.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.00008pt on input line 173.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.99986pt on input line 173.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.99991pt on input line 173.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 4.99992pt on input line 173.
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 170--226
 [] [] 
  []
 
-[4]) (./cv/honors.tex) (./cv/service.tex) (./cv/teaching.tex) (./cv/orgs.tex
-[5])
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 227--259
+[] [] 
+ []
+
+[4]) (./cv/honors.tex) (./cv/service.tex) (./cv/teaching.tex [5])
+(./cv/orgs.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
  [6]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
@@ -943,7 +954,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  25399 strings out of 494945
  460538 string characters out of 6177496
- 673178 words of memory out of 5000000
+ 664178 words of memory out of 5000000
  29003 multiletter control sequences out of 15000+600000
  534004 words of font info for 91 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191

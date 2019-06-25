@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.4.28)  4 JUN 2019 19:44
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.4.28)  24 JUN 2019 19:43
 entering extended mode
 **./ChevretteCV.tex
 (ChevretteCV.tex
@@ -948,54 +948,59 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 9--52
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 53--88
+Overfull \hbox (14.22638pt too wide) in alignment at lines 53--92
 [] [] 
  []
 
 [2]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 93--116
+Overfull \hbox (14.22638pt too wide) in alignment at lines 97--120
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 122--126
+Overfull \hbox (14.22638pt too wide) in alignment at lines 126--130
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 132--148
+Overfull \hbox (14.22638pt too wide) in alignment at lines 136--147
+[] [] 
+ []
+
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 148--156
 [] [] 
  []
 
 [3]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 154--159
+Overfull \hbox (14.22638pt too wide) in alignment at lines 162--167
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 160--172
+Overfull \hbox (14.22638pt too wide) in alignment at lines 168--180
 [] [] 
  []
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 182.
+(Font)              scaled to size 9.00014pt on input line 190.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 182.
+(Font)              scaled to size 6.00009pt on input line 190.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 182.
+(Font)              scaled to size 5.00008pt on input line 190.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 182.
+(Font)              scaled to size 8.99986pt on input line 190.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 182.
+(Font)              scaled to size 5.99991pt on input line 190.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 182.
+(Font)              scaled to size 4.99992pt on input line 190.
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 179--229
+Overfull \hbox (14.22638pt too wide) in alignment at lines 187--234
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 230--268
+Overfull \hbox (14.22638pt too wide) in alignment at lines 235--276
 [] [] 
  []
 
@@ -1015,7 +1020,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  25481 strings out of 427836
  460554 string characters out of 3148510
- 678761 words of memory out of 3000000
+ 680761 words of memory out of 3000000
  29226 multiletter control sequences out of 15000+200000
  534004 words of font info for 91 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.4.28)  28 JUN 2019 17:16
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.4.28)  28 JUN 2019 17:19
 entering extended mode
 **./ChevretteCV.tex
 (ChevretteCV.tex
@@ -973,34 +973,29 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 148--156
  []
 
 [3]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 162--167
-[] [] 
- []
-
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 168--180
+Overfull \hbox (14.22638pt too wide) in alignment at lines 162--176
 [] [] 
  []
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 190.
+(Font)              scaled to size 9.00014pt on input line 186.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 190.
+(Font)              scaled to size 6.00009pt on input line 186.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 190.
+(Font)              scaled to size 5.00008pt on input line 186.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 190.
+(Font)              scaled to size 8.99986pt on input line 186.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 190.
+(Font)              scaled to size 5.99991pt on input line 186.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 190.
+(Font)              scaled to size 4.99992pt on input line 186.
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 187--234
+Overfull \hbox (14.22638pt too wide) in alignment at lines 183--230
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 235--276
+Overfull \hbox (14.22638pt too wide) in alignment at lines 231--272
 [] [] 
  []
 

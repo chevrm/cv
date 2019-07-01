@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.4.28)  1 JUL 2019 16:47
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.4.28)  1 JUL 2019 16:52
 entering extended mode
 **./ChevretteCV.tex
 (ChevretteCV.tex
@@ -952,4 +952,73 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 57--96
 [] [] 
  []
 
-[2
+[2]
+Overfull \hbox (14.22638pt too wide) in alignment at lines 101--124
+[] [] 
+ []
+
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 130--134
+[] [] 
+ []
+
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 140--151
+[] [] 
+ []
+
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 152--160
+[] [] 
+ []
+
+[3]
+Overfull \hbox (14.22638pt too wide) in alignment at lines 166--180
+[] [] 
+ []
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 9.00014pt on input line 190.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.00009pt on input line 190.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00008pt on input line 190.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 8.99986pt on input line 190.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.99991pt on input line 190.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99992pt on input line 190.
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 187--234
+[] [] 
+ []
+
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 235--276
+[] [] 
+ []
+
+[4]) (cv/honors.tex) (cv/service.tex [5]) (cv/teaching.tex) (cv/orgs.tex)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
+
+[6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
+ (ChevretteCV.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 74.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 74.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 25481 strings out of 427836
+ 460554 string characters out of 3148510
+ 680761 words of memory out of 3000000
+ 29226 multiletter control sequences out of 15000+200000
+ 534004 words of font info for 91 fonts, out of 3000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 47i,12n,72p,10505b,467s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on ChevretteCV.pdf (6 pages).

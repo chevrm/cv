@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.7.22)  28 OCT 2019 09:48
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.7.22)  1 NOV 2019 09:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -901,23 +901,23 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 9--23
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 23--81
+Overfull \hbox (14.22638pt too wide) in alignment at lines 23--85
 [] [] 
  []
 
 
 LaTeX Font Warning: Font shape `TU/Lato(2)/m/sc' undefined
-(Font)              using `TU/Lato(2)/m/n' instead on input line 81.
+(Font)              using `TU/Lato(2)/m/n' instead on input line 85.
 
 [1
 
 ]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 86--92
+Overfull \hbox (14.22638pt too wide) in alignment at lines 90--96
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 97--115
+Overfull \hbox (14.22638pt too wide) in alignment at lines 101--115
 [] [] 
  []
 

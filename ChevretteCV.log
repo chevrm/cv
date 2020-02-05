@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.7.22)  24 JAN 2020 11:00
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.7.22)  4 FEB 2020 14:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -896,43 +896,43 @@ LaTeX Font Info:    Font shape `TU/Lato(3)/m/sl' in size <8> not available
 (Font)              Font shape `TU/Lato(3)/m/it' tried instead on input line 11
 .
 ) (./cv/experience.tex) (./cv/pubs.tex
-Overfull \hbox (14.22638pt too wide) in alignment at lines 9--23
+Overfull \hbox (14.22638pt too wide) in alignment at lines 9--19
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 23--85
+Overfull \hbox (14.22638pt too wide) in alignment at lines 19--89
 [] [] 
  []
 
 
 LaTeX Font Warning: Font shape `TU/Lato(2)/m/sc' undefined
-(Font)              using `TU/Lato(2)/m/n' instead on input line 85.
+(Font)              using `TU/Lato(2)/m/n' instead on input line 89.
 
 [1
 
 ]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 90--96
+Overfull \hbox (14.22638pt too wide) in alignment at lines 94--100
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 101--123
+Overfull \hbox (14.22638pt too wide) in alignment at lines 105--115
+[] [] 
+ []
+
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 115--133
 [] [] 
  []
 
 [2]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 123--129
+Overfull \hbox (14.22638pt too wide) in alignment at lines 138--144
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 134--140
-[] [] 
- []
-
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 145--159
+Overfull \hbox (14.22638pt too wide) in alignment at lines 149--159
 [] [] 
  []
 
@@ -959,22 +959,22 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99992pt on input line 228.
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 224--246
+Overfull \hbox (14.22638pt too wide) in alignment at lines 224--238
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 246--328
+Overfull \hbox (14.22638pt too wide) in alignment at lines 238--320
 [] [] 
  []
 
 [3]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 328--346
+Overfull \hbox (14.22638pt too wide) in alignment at lines 320--346
 [] [] 
  []
 
-[4]) (./cv/honors.tex) (./cv/service.tex) (./cv/teaching.tex) (./cv/orgs.tex
-[5])
+[4]) (./cv/honors.tex) (./cv/service.tex) (./cv/teaching.tex [5])
+(./cv/orgs.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
  [6]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.

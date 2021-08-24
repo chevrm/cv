@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250 64-bit) (preloaded format=xelatex 2019.12.2)  13 JAN 2021 15:17
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250 64-bit) (preloaded format=xelatex 2019.12.2)  24 AUG 2021 14:54
 entering extended mode
 **./ChevretteCV.tex
 (ChevretteCV.tex
@@ -813,96 +813,147 @@ LaTeX Font Warning: Font shape `TU/Lato(0)/m/sc' undefined
 LaTeX Font Info:    Font shape `TU/Lato(3)/m/sl' in size <8> not available
 (Font)              Font shape `TU/Lato(3)/m/it' tried instead on input line 11
 .
-) (cv/experience.tex) (cv/pubs.tex
-Overfull \hbox (14.22638pt too wide) in alignment at lines 9--23
-[] [] 
- []
-
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 23--102
-[] [] 
- []
-
+) (cv/experience.tex) (cv/honors.tex
 
 LaTeX Font Warning: Font shape `TU/Lato(2)/m/sc' undefined
-(Font)              using `TU/Lato(2)/m/n' instead on input line 102.
+(Font)              using `TU/Lato(2)/m/n' instead on input line 47.
 
 [1
 
-]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 102--120
-[] [] 
- []
-
-[2]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 125--131
+]) (cv/teaching.tex
+Overfull \hbox (14.22638pt too wide) in alignment at lines 72--78
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 136--162
+Underfull \hbox (badness 10000) in paragraph at lines 82--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--97
+
+ []
+
+
+Overfull \hbox (3.20818pt too wide) in paragraph at lines 81--98
+[][] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--129
+
+ []
+
+) (cv/service.tex
+Overfull \hbox (3.20818pt too wide) in paragraph at lines 104--2
+[][] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--2
+
+ []
+
+) (cv/orgs.tex [2]) (cv/pubs.tex
+Overfull \hbox (14.22638pt too wide) in alignment at lines 9--72
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 167--173
-[] [] 
- []
-
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 178--192
-[] [] 
- []
-
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 198--224
-[] [] 
- []
-
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 224--250
+Overfull \hbox (14.22638pt too wide) in alignment at lines 72--98
 [] [] 
  []
 
 [3]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 255--282
+Overfull \hbox (14.22638pt too wide) in alignment at lines 104--134
 [] [] 
  []
 
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 291.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 291.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 291.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 291.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 291.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 291.
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 287--333
+Overfull \hbox (14.22638pt too wide) in alignment at lines 140--154
+[] [] 
+ []
+
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 160--186
+[] [] 
+ []
+
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 186--192
 [] [] 
  []
 
 [4]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 333--415
+Overfull \hbox (14.22638pt too wide) in alignment at lines 198--208
 [] [] 
  []
 
-) (cv/honors.tex [5]
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 214--248
+[] [] 
+ []
+
+) (cv/talks.tex
+Overfull \hbox (14.22638pt too wide) in alignment at lines 7--61
+[] [] 
+ []
+
+[5]
+Overfull \hbox (14.22638pt too wide) in alignment at lines 67--98
+[] [] 
+ []
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 9.00096pt on input line 112.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.00064pt on input line 112.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 112.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 8.99904pt on input line 112.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 112.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 112.
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 104--170
+[] [] 
+ []
+
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 170--240
+[] [] 
+ []
+
+[6]) (cv/grants.tex
 
 LaTeX Font Warning: Font shape `TU/Lato(0)/bx/sc' undefined
-(Font)              using `TU/Lato(0)/bx/n' instead on input line 20.
+(Font)              using `TU/Lato(0)/bx/n' instead on input line 19.
 
-) (cv/teaching.tex) (cv/service.tex [6]) (cv/orgs.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
  [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
  (ChevretteCV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 74.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 74.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 78.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
 Package rerunfilecheck Info: File `ChevretteCV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -911,11 +962,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 28254 strings out of 427240
- 507012 string characters out of 3141441
- 775035 words of memory out of 3000000
- 32481 multiletter control sequences out of 15000+200000
- 536151 words of font info for 96 fonts, out of 3000000 for 9000
+ 28271 strings out of 427240
+ 507330 string characters out of 3141441
+ 763035 words of memory out of 3000000
+ 32490 multiletter control sequences out of 15000+200000
+ 536167 words of font info for 98 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  56i,11n,109p,877b,465s stack positions out of 5000i,500n,10000p,200000b,50000s
 

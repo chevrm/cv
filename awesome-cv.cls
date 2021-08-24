@@ -249,6 +249,10 @@
 \newcommand*{\pubtitlestyle}[1]{{\fontsize{9pt}{1em}\bodyfont\color{graytext} #1}}
 \newcommand*{\pubdatestyle}[1]{{\fontsize{9pt}{1em}\bodyfont\color{graytext} #1}}
 
+% For elements of dated
+\newcommand*{\datedtitlestyle}[1]{{\fontsize{9pt}{1em}\bodyfont\color{graytext} #1}}
+\newcommand*{\dateddatestyle}[1]{{\fontsize{9pt}{1em}\bodyfont\color{graytext} #1}}
+
 % For elements of skill
 \newcommand*{\skilltypestyle}[1]{{\fontsize{10pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
 \newcommand*{\skillsetstyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\color{text} #1}}
@@ -612,11 +616,30 @@
     \end{tabular*}
  \end{center} 
 }
+
+% Define an environment for cvdatedlist
+\newenvironment{cvdatedlist}{
+  \vspace{\acvSectionContentTopSkip}
+  \vspace{-6mm}
+  \setlength\tabcolsep{0pt}
+  \setlength{\extrarowheight}{0pt}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} C{1cm} L{\textwidth - 1.0cm} }
+}{
+  \end{tabular*}
+}
+
 % Define a line of cv information(honor, award or something else)
 % Usage: \cvpub{<title>}{<date>}
 
-\newcommand*{\cvpub}[2]{%
+\newcommand*{\cvpub}[2]{
   \pubdatestyle{#2} & \hangpara{0.5cm}{1}\pubtitlestyle{#1} \\
+}
+
+% Define a line of cv information(honor, award or something else)
+% Usage: \cvpub{<title>}{<date>}
+
+\newcommand*{\cvdated}[2]{
+  \dateddatestyle{#2} & \datedtitlestyle{#1} \\
 }
 
 % Define an environment for cvskill

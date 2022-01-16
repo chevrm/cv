@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.12) (preloaded format=xelatex 2021.12.14)  16 JAN 2022 17:11
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.12) (preloaded format=xelatex 2021.12.14)  20 DEC 2021 15:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./ChevretteCV.tex
-(ChevretteCV.tex
+**./ChevretteCV_pubonly.tex
+(ChevretteCV_pubonly.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22> (awesome-cv.cls
 Document Class: awesome-cv 2016/01/30 v1.5 Awesome Curriculum Vitae Class
@@ -448,8 +448,8 @@ Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
 \h@ngcolonwd=\skip88
 \h@ngscolonwd=\skip89
 )
-(ChevretteCV.aux)
-\openout1 = `ChevretteCV.aux'.
+(ChevretteCV_pubonly.aux)
+\openout1 = `ChevretteCV_pubonly.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
 LaTeX Font Info:    ... okay on input line 56.
@@ -562,223 +562,92 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 56.
 LaTeX Info: Redefining \pageref on input line 56.
 LaTeX Info: Redefining \nameref on input line 56.
- (ChevretteCV.out) (ChevretteCV.out)
+ (ChevretteCV_pubonly.out) (ChevretteCV_pubonly.out)
 \@outlinefile=\write3
-\openout3 = `ChevretteCV.out'.
+\openout3 = `ChevretteCV_pubonly.out'.
 
- (cv/education.tex
+
+(cv/pubsonly.tex
 
 LaTeX Font Warning: Font shape `TU/FontAwesome(0)/b/n' undefined
-(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 2.
+(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 3.
 
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95116pt on input line 11.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.6658pt on input line 11.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.47559pt on input line 11.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 11.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 11.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 11.
-LaTeX Font Info:    Font shape `TU/Lato(3)/m/sl' in size <9> not available
-(Font)              Font shape `TU/Lato(3)/m/it' tried instead on input line 11
-.
 
 LaTeX Font Warning: Font shape `TU/Lato(0)/m/sc' undefined
-(Font)              using `TU/Lato(0)/m/n' instead on input line 11.
+(Font)              using `TU/Lato(0)/m/n' instead on input line 7.
 
-LaTeX Font Info:    Font shape `TU/Lato(3)/m/sl' in size <8> not available
-(Font)              Font shape `TU/Lato(3)/m/it' tried instead on input line 11
-.
-) (cv/experience.tex) (cv/honors.tex
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.95116pt on input line 9.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.6658pt on input line 9.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.47559pt on input line 9.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 10.94882pt on input line 9.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.66417pt on input line 9.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.47441pt on input line 9.
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 9--84
+[] [] 
+ []
+
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 84--106
+[] [] 
+ []
+
 
 LaTeX Font Warning: Font shape `TU/Lato(2)/m/sc' undefined
-(Font)              using `TU/Lato(2)/m/n' instead on input line 47.
+(Font)              using `TU/Lato(2)/m/n' instead on input line 106.
 
 [1
 
-]) (cv/teaching.tex
-
-LaTeX Font Warning: Font shape `TU/Lato(0)/m/scit' undefined
-(Font)              using `TU/Lato(0)/m/it' instead on input line 68.
-
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 72--78
+]
+Overfull \hbox (14.22638pt too wide) in alignment at lines 112--147
 [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 88--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--97
-
- []
-
-
-Overfull \hbox (3.20818pt too wide) in paragraph at lines 81--98
-[][] [] [] 
- []
-
-
-LaTeX Font Warning: Font shape `TU/Lato(0)/m/scit' undefined
-(Font)              using `TU/Lato(0)/m/it' instead on input line 101.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 105--112
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--121
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--130
-
- []
-
-) (cv/service.tex
-Overfull \hbox (3.20818pt too wide) in paragraph at lines 104--2
-[][] [] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--2
-
- []
-
-[2]) (cv/orgs.tex) (cv/pubs.tex
-Overfull \hbox (14.22638pt too wide) in alignment at lines 9--72
+Overfull \hbox (14.22638pt too wide) in alignment at lines 153--167
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 72--110
-[] [] 
- []
-
-[3]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 116--154
+Overfull \hbox (14.22638pt too wide) in alignment at lines 174--200
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 160--170
+Overfull \hbox (14.22638pt too wide) in alignment at lines 200--206
 [] [] 
  []
 
-[4]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 170--176
-[] [] 
- []
-
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 182--212
+[2]
+Overfull \hbox (14.22638pt too wide) in alignment at lines 212--222
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 218--228
+Overfull \hbox (14.22638pt too wide) in alignment at lines 228--258
 [] [] 
  []
 
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 234--256
-[] [] 
- []
-
-) (cv/talks.tex
-Overfull \hbox (14.22638pt too wide) in alignment at lines 7--45
-[] [] 
- []
-
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 45--63
-[] [] 
- []
-
-[5]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 69--100
-[] [] 
- []
-
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 114.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 114.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 114.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 114.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 114.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 114.
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 106--160
-[] [] 
- []
-
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 160--242
-[] [] 
- []
-
-[6]) (cv/grants.tex
-
-LaTeX Font Warning: Font shape `TU/Lato(0)/m/scit' undefined
-(Font)              using `TU/Lato(0)/m/it' instead on input line 12.
-
-
-LaTeX Font Warning: Font shape `TU/Lato(0)/b/sc' undefined
-(Font)              using `TU/Lato(0)/b/n' instead on input line 19.
-
-
-LaTeX Font Warning: Font shape `TU/Lato(0)/b/scit' undefined
-(Font)              using `TU/Lato(0)/b/it' instead on input line 19.
-
-
-LaTeX Font Warning: Font shape `TU/Lato(0)/m/scit' undefined
-(Font)              using `TU/Lato(0)/m/it' instead on input line 19.
-
-
-LaTeX Font Warning: Font shape `TU/Lato(0)/m/scit' undefined
-(Font)              using `TU/Lato(0)/m/it' instead on input line 26.
-
-
-LaTeX Font Warning: Font shape `TU/Lato(0)/b/scit' undefined
-(Font)              using `TU/Lato(0)/b/it' instead on input line 33.
-
-
-LaTeX Font Warning: Font shape `TU/Lato(0)/m/scit' undefined
-(Font)              using `TU/Lato(0)/m/it' instead on input line 33.
-
-) [7] (ChevretteCV.aux)
+) [3] (ChevretteCV_pubonly.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `ChevretteCV.out' has not changed.
+Package rerunfilecheck Info: File `ChevretteCV_pubonly.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18719 strings out of 411044
- 336103 string characters out of 2825392
- 842001 words of memory out of 3000000
- 39124 multiletter control sequences out of 15000+600000
- 407348 words of font info for 105 fonts, out of 8000000 for 9000
+ 18623 strings out of 411044
+ 333429 string characters out of 2825392
+ 840025 words of memory out of 3000000
+ 39075 multiletter control sequences out of 15000+600000
+ 405954 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,11n,115p,813b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,11n,115p,825b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ChevretteCV.pdf (7 pages).
+Output written on ChevretteCV_pubonly.pdf (3 pages).

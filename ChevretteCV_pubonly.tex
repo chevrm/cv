@@ -1,0 +1,78 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Based on Awesome-CV at https://github.com/posquit0/Awesome-CV
+%
+
+\documentclass[11pt, a4paper]{awesome-cv}
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+\fontdir[fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange, awesome-nephritis, awesome-concrete, awesome-darknight
+%\colorlet{awesome}{awesome-concrete}
+% Uncomment if you would like to specify your own color
+\definecolor{awesome}{HTML}{000000} % first 3 char of headers, locations
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+%\definecolor{darktext}{HTML}{414141}
+%\definecolor{text}{HTML}{333333}
+%\definecolor{graytext}{HTML}{5D5D5D}
+%\definecolor{lighttext}{HTML}{999999}
+\definecolor{darktext}{HTML}{000000} % headers for edu/exp/hon
+\definecolor{text}{HTML}{000000} % last name, contact, bullets, characters 4+ of header text, subheader for pubs
+\definecolor{graytext}{HTML}{222222} % first name, subtext on edu/exp, pubs, subtext and date on honors
+\definecolor{lighttext}{HTML}{666666} % address and footer
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+% add hanging indent support
+\usepackage{hanging}
+\usepackage{hyperref}
+
+\definecolor{link}{RGB}{0, 0, 153}
+\newcommand\colorhref[3][link]{\href{#2}{\color{#1}#3}}
+
+\name{Marc G}{Chevrette}
+%\position{Computational Biologist{\enskip\cdotp\enskip}Scientist}
+%\address{Madison, Wisconsin}
+\mobile{401.269.9173} 
+\email{mgchevrette@gmail.com}
+\homepage{chevrm.github.io}
+%\github{chevrm}
+\linkedin{chevrette}
+% \stackoverflow{SO-id}{SO-name}
+\twitter{wildtypeMC}
+% \skype{skype-id}
+% \reddit{reddit-id}
+\scholar{VX3Laf8AAAAJ}
+%\quote{``Why would you put a quote in your CV."}
+
+
+\begin{document}
+\makecvheader
+\makecvfooter
+  {Updated \today}
+  {Marc G. Chevrette, PhD~~~·~~~Curriculum Vitae}
+  {\thepage}
+
+%\input{cv/education.tex}
+%\input{cv/experience.tex}
+%\input{cv/honors.tex}
+%\input{cv/teaching.tex}
+%\input{cv/service.tex}
+%\input{cv/orgs.tex}
+\input{cv/pubsonly.tex}
+%\input{cv/talks.tex}
+%\input{cv/grants.tex}
+
+% Legacy sections
+%\input{cv/consult.tex}
+%\input{cv/skills.tex}
+%\input{cv/presentation.tex}
+
+\end{document}

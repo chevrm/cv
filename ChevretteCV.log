@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.12) (preloaded format=xelatex 2021.12.14)  16 JAN 2022 17:11
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.12) (preloaded format=xelatex 2021.12.14)  18 APR 2022 13:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -635,17 +635,17 @@ LaTeX Font Warning: Font shape `TU/Lato(0)/m/scit' undefined
 (Font)              using `TU/Lato(0)/m/it' instead on input line 101.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--112
+Underfull \hbox (badness 10000) in paragraph at lines 105--113
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--121
+Underfull \hbox (badness 10000) in paragraph at lines 115--122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--130
+Underfull \hbox (badness 10000) in paragraph at lines 124--131
 
  []
 
@@ -665,47 +665,42 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 9--72
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 72--110
+Overfull \hbox (14.22638pt too wide) in alignment at lines 72--118
 [] [] 
  []
 
 [3]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 116--154
-[] [] 
- []
-
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 160--170
+Overfull \hbox (14.22638pt too wide) in alignment at lines 124--162
 [] [] 
  []
 
 [4]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 170--176
+Overfull \hbox (14.22638pt too wide) in alignment at lines 170--184
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 182--212
+Overfull \hbox (14.22638pt too wide) in alignment at lines 190--220
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 218--228
+Overfull \hbox (14.22638pt too wide) in alignment at lines 226--236
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 234--256
+Overfull \hbox (14.22638pt too wide) in alignment at lines 242--260
 [] [] 
  []
 
 ) (cv/talks.tex
-Overfull \hbox (14.22638pt too wide) in alignment at lines 7--45
+Overfull \hbox (14.22638pt too wide) in alignment at lines 7--41
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 45--63
+Overfull \hbox (14.22638pt too wide) in alignment at lines 41--63
 [] [] 
  []
 
@@ -727,12 +722,12 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 114.
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 106--160
+Overfull \hbox (14.22638pt too wide) in alignment at lines 106--156
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 160--242
+Overfull \hbox (14.22638pt too wide) in alignment at lines 156--242
 [] [] 
  []
 

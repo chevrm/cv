@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.12) (preloaded format=xelatex 2021.12.14)  18 APR 2022 13:35
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.12) (preloaded format=xelatex 2021.12.14)  7 JUL 2022 14:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -596,138 +596,138 @@ LaTeX Font Info:    Font shape `TU/Lato(3)/m/sl' in size <8> not available
 ) (cv/experience.tex) (cv/honors.tex
 
 LaTeX Font Warning: Font shape `TU/Lato(2)/m/sc' undefined
-(Font)              using `TU/Lato(2)/m/n' instead on input line 47.
+(Font)              using `TU/Lato(2)/m/n' instead on input line 105.
 
 [1
 
 ]) (cv/teaching.tex
 
 LaTeX Font Warning: Font shape `TU/Lato(0)/m/scit' undefined
-(Font)              using `TU/Lato(0)/m/it' instead on input line 68.
+(Font)              using `TU/Lato(0)/m/it' instead on input line 73.
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 72--78
+Overfull \hbox (14.22638pt too wide) in alignment at lines 77--83
 [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--86
+Underfull \hbox (badness 10000) in paragraph at lines 87--91
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--92
+Underfull \hbox (badness 10000) in paragraph at lines 93--97
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--97
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
 
  []
 
 
-Overfull \hbox (3.20818pt too wide) in paragraph at lines 81--98
+Overfull \hbox (3.20818pt too wide) in paragraph at lines 86--103
 [][] [] [] 
  []
 
 
 LaTeX Font Warning: Font shape `TU/Lato(0)/m/scit' undefined
-(Font)              using `TU/Lato(0)/m/it' instead on input line 101.
+(Font)              using `TU/Lato(0)/m/it' instead on input line 106.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--113
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--122
+Underfull \hbox (badness 10000) in paragraph at lines 110--118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--131
+Underfull \hbox (badness 10000) in paragraph at lines 120--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--136
 
  []
 
 ) (cv/service.tex
-Overfull \hbox (3.20818pt too wide) in paragraph at lines 104--2
+Overfull \hbox (3.20818pt too wide) in paragraph at lines 109--2
 [][] [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--2
+Underfull \hbox (badness 10000) in paragraph at lines 109--2
 
  []
 
 [2]) (cv/orgs.tex) (cv/pubs.tex
-Overfull \hbox (14.22638pt too wide) in alignment at lines 9--72
+Overfull \hbox (14.22638pt too wide) in alignment at lines 9--55
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 72--118
+Overfull \hbox (14.22638pt too wide) in alignment at lines 55--118
 [] [] 
  []
 
 [3]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 124--162
+Overfull \hbox (14.22638pt too wide) in alignment at lines 124--146
+[] [] 
+ []
+
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 146--164
 [] [] 
  []
 
 [4]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 170--184
+Overfull \hbox (14.22638pt too wide) in alignment at lines 172--186
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 190--220
+Overfull \hbox (14.22638pt too wide) in alignment at lines 192--222
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 226--236
+Overfull \hbox (14.22638pt too wide) in alignment at lines 228--242
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 242--260
+Overfull \hbox (14.22638pt too wide) in alignment at lines 248--266
 [] [] 
  []
 
-) (cv/talks.tex
-Overfull \hbox (14.22638pt too wide) in alignment at lines 7--41
+) (cv/talks.tex [5]
+Overfull \hbox (14.22638pt too wide) in alignment at lines 7--70
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 41--63
-[] [] 
- []
-
-[5]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 69--100
+Overfull \hbox (14.22638pt too wide) in alignment at lines 76--107
 [] [] 
  []
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 114.
+(Font)              scaled to size 9.00096pt on input line 121.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 114.
+(Font)              scaled to size 6.00064pt on input line 121.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 114.
+(Font)              scaled to size 5.00053pt on input line 121.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 114.
+(Font)              scaled to size 8.99904pt on input line 121.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 114.
+(Font)              scaled to size 5.99936pt on input line 121.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 114.
+(Font)              scaled to size 4.99947pt on input line 121.
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 106--156
+Overfull \hbox (14.22638pt too wide) in alignment at lines 113--135
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 156--242
+Overfull \hbox (14.22638pt too wide) in alignment at lines 135--249
 [] [] 
  []
 
@@ -770,7 +770,7 @@ Package rerunfilecheck Info: File `ChevretteCV.out' has not changed.
 Here is how much of TeX's memory you used:
  18719 strings out of 411044
  336103 string characters out of 2825392
- 842001 words of memory out of 3000000
+ 846004 words of memory out of 3000000
  39124 multiletter control sequences out of 15000+600000
  407348 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

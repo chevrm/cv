@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.12) (preloaded format=xelatex 2021.12.14)  17 AUG 2022 13:54
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.12) (preloaded format=xelatex 2021.12.14)  14 OCT 2022 11:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -665,41 +665,46 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 9--55
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 55--118
+Overfull \hbox (14.22638pt too wide) in alignment at lines 55--122
 [] [] 
  []
 
 [3]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 124--146
+Overfull \hbox (14.22638pt too wide) in alignment at lines 128--146
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 146--164
+Overfull \hbox (14.22638pt too wide) in alignment at lines 146--168
 [] [] 
  []
 
 [4]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 172--186
+Overfull \hbox (14.22638pt too wide) in alignment at lines 176--190
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 192--222
+Overfull \hbox (14.22638pt too wide) in alignment at lines 196--226
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 228--242
+Overfull \hbox (14.22638pt too wide) in alignment at lines 232--246
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 248--266
+Overfull \hbox (14.22638pt too wide) in alignment at lines 252--274
 [] [] 
  []
 
-) (cv/talks.tex [5]
+
+Overfull \hbox (14.22638pt too wide) in alignment at lines 274--280
+[] [] 
+ []
+
+[5]) (cv/talks.tex
 Overfull \hbox (14.22638pt too wide) in alignment at lines 7--70
 [] [] 
  []
@@ -722,12 +727,12 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 121.
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 113--135
+Overfull \hbox (14.22638pt too wide) in alignment at lines 113--127
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 135--249
+Overfull \hbox (14.22638pt too wide) in alignment at lines 127--249
 [] [] 
  []
 
@@ -760,7 +765,7 @@ LaTeX Font Warning: Font shape `TU/Lato(0)/b/scit' undefined
 LaTeX Font Warning: Font shape `TU/Lato(0)/m/scit' undefined
 (Font)              using `TU/Lato(0)/m/it' instead on input line 33.
 
-) [7] (ChevretteCV.aux)
+[7]) [8] (ChevretteCV.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -776,4 +781,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  99i,11n,115p,813b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ChevretteCV.pdf (7 pages).
+Output written on ChevretteCV.pdf (8 pages).

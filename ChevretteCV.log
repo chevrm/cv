@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.12) (preloaded format=xelatex 2021.12.14)  14 OCT 2022 11:04
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.12) (preloaded format=xelatex 2021.12.14)  3 NOV 2022 12:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -660,51 +660,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--2
  []
 
 [2]) (cv/orgs.tex) (cv/pubs.tex
-Overfull \hbox (14.22638pt too wide) in alignment at lines 9--55
+Overfull \hbox (14.22638pt too wide) in alignment at lines 10--57
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 55--122
+Overfull \hbox (14.22638pt too wide) in alignment at lines 57--132
 [] [] 
  []
 
 [3]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 128--146
+Overfull \hbox (14.22638pt too wide) in alignment at lines 138--148
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 146--168
+Overfull \hbox (14.22638pt too wide) in alignment at lines 148--178
 [] [] 
  []
 
 [4]
-Overfull \hbox (14.22638pt too wide) in alignment at lines 176--190
+Overfull \hbox (14.22638pt too wide) in alignment at lines 186--200
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 196--226
+Overfull \hbox (14.22638pt too wide) in alignment at lines 206--236
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 232--246
+Overfull \hbox (14.22638pt too wide) in alignment at lines 242--256
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 252--274
+Overfull \hbox (14.22638pt too wide) in alignment at lines 262--280
 [] [] 
  []
 
-
-Overfull \hbox (14.22638pt too wide) in alignment at lines 274--280
-[] [] 
- []
-
-[5]) (cv/talks.tex
+) (cv/talks.tex [5]
 Overfull \hbox (14.22638pt too wide) in alignment at lines 7--70
 [] [] 
  []
@@ -715,24 +710,24 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 76--107
  []
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 121.
+(Font)              scaled to size 9.00096pt on input line 122.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 121.
+(Font)              scaled to size 6.00064pt on input line 122.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 121.
+(Font)              scaled to size 5.00053pt on input line 122.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 121.
+(Font)              scaled to size 8.99904pt on input line 122.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 121.
+(Font)              scaled to size 5.99936pt on input line 122.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 121.
+(Font)              scaled to size 4.99947pt on input line 122.
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 113--127
+Overfull \hbox (14.22638pt too wide) in alignment at lines 113--140
 [] [] 
  []
 
 
-Overfull \hbox (14.22638pt too wide) in alignment at lines 127--249
+Overfull \hbox (14.22638pt too wide) in alignment at lines 140--250
 [] [] 
  []
 
@@ -765,7 +760,7 @@ LaTeX Font Warning: Font shape `TU/Lato(0)/b/scit' undefined
 LaTeX Font Warning: Font shape `TU/Lato(0)/m/scit' undefined
 (Font)              using `TU/Lato(0)/m/it' instead on input line 33.
 
-[7]) [8] (ChevretteCV.aux)
+) [7] (ChevretteCV.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -773,12 +768,12 @@ Package rerunfilecheck Info: File `ChevretteCV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18719 strings out of 411044
- 336103 string characters out of 2825392
+ 18721 strings out of 411044
+ 336194 string characters out of 2825392
  846004 words of memory out of 3000000
- 39124 multiletter control sequences out of 15000+600000
- 407348 words of font info for 105 fonts, out of 8000000 for 9000
+ 39125 multiletter control sequences out of 15000+600000
+ 407356 words of font info for 106 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,11n,115p,813b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ChevretteCV.pdf (8 pages).
+Output written on ChevretteCV.pdf (7 pages).
